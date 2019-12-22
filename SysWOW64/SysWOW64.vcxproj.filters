@@ -30,6 +30,1317 @@
     <ClInclude Include="pch.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
+    <ClInclude Include="E:\WSL-DistroLauncher-master\DistroLauncher\DistributionInfo.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\WSL-DistroLauncher-master\DistroLauncher\Helpers.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\WSL-DistroLauncher-master\DistroLauncher\resource.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\WSL-DistroLauncher-master\DistroLauncher\stdafx.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\WSL-DistroLauncher-master\DistroLauncher\targetver.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\WSL-DistroLauncher-master\DistroLauncher\WslApiLoader.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_abi.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_activation.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_agile_ref.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_array.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_chrono.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_collections.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_collections_base.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_collections_input_iterable.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_collections_input_map.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_collections_input_map_view.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_collections_input_vector.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_collections_input_vector_view.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_collections_map.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_collections_vector.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_com_ptr.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_composable.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_coroutine.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_coroutine_foundation.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_coroutine_system.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_coroutine_threadpool.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_coroutine_ui_core.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_deferral.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_delegate.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_dependencies.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_error.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_events.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_extern.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_fast_forward.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_foundation.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_handle.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_identity.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_implements.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_lock.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_macros.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_marshaler.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_meta.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_natvis.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_reference_produce.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_security.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_std_hash.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_string.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_string_input.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_string_operators.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_types.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_uri.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_version.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_weak_ref.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_windows.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\base_xaml_typename.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\Bezier.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\BinaryReader.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\bitset.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\boolobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\bufferobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\bytearrayobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\bytes_methods.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\bytesobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\cellobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\ceval.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\classobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\cmd_reader.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\cobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\code.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\code_writers.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\codecs.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\compile.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\complexobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\component_writers.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\ConstantBuffer.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\containerstream.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\cStringIO.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\d3dx12.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\datetime.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\DDS.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\DemandCreate.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\descrobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\dictobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\driverlog.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\dtoa.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\EffectCommon.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\enumobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\errcode.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\eval.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\file_writers.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\fileobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\filestream.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\floatobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\frameobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\funcobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\genobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\Geometry.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\graminit.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\grammar.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\helpers.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\http_client.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\http_compression.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\http_headers.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\http_listener.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\http_msg.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\import.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\interopstream.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\intobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\intrcheck.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\iterobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\ivrclientcore.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\json.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\listobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\LoaderHelpers.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\longintrepr.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\longobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\marshal.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\memoryobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\metagrammar.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\methodobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\modsupport.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\moduleobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\MP3decoder.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\node.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\oauth1.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\oauth2.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\object.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\objimpl.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\opcode.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\osdefs.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\parsetok.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\patchlevel.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\pch.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\pgen.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\pgenheaders.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\PlatformHelpers.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\producerconsumerstream.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\py_curses.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\pyarena.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\pycapsule.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\pyconfig.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\pyctype.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\pydebug.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\pyerrors.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\pyexpat.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\pyfpe.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\pygetopt.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\pymacconfig.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\pymactoolbox.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\pymath.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\pymem.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\pyport.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\pystate.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\pystrcmp.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\pystrtod.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\Python.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\Python-ast.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\pythonrun.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\pythread.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\rangeobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\rawptrstream.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\SDKMesh.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\setobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\settings.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\SharedResourcePool.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\sliceobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\streams.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\stringobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\structmember.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\structseq.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\symtable.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\sysmodule.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\task_group.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\text_writer.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\timefuncs.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\token.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\traceback.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\tupleobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\type_writers.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\ucnhash.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\unicodeobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\uri.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\uri_builder.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\vbo.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\version.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\warnings.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\weakrefobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\winmd_reader.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\ws_client.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\source\ws_msg.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\src.Dll\NETFXSDK\4.8\Include\um\alink.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\src.Dll\NETFXSDK\4.8\Include\um\clrdata.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\src.Dll\NETFXSDK\4.8\Include\um\cor.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\src.Dll\NETFXSDK\4.8\Include\um\cordebug.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\src.Dll\NETFXSDK\4.8\Include\um\CorError.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\src.Dll\NETFXSDK\4.8\Include\um\CorHdr.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\src.Dll\NETFXSDK\4.8\Include\um\corhlpr.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\src.Dll\NETFXSDK\4.8\Include\um\corprof.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\src.Dll\NETFXSDK\4.8\Include\um\corpub.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\src.Dll\NETFXSDK\4.8\Include\um\corsym.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\src.Dll\NETFXSDK\4.8\Include\um\fusion.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\src.Dll\NETFXSDK\4.8\Include\um\gchost.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\src.Dll\NETFXSDK\4.8\Include\um\ICeeFileGen.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\src.Dll\NETFXSDK\4.8\Include\um\isolation.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\src.Dll\NETFXSDK\4.8\Include\um\ivalidator.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\src.Dll\NETFXSDK\4.8\Include\um\ivehandler.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\src.Dll\NETFXSDK\4.8\Include\um\metahost.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\src.Dll\NETFXSDK\4.8\Include\um\mscoree.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\src.Dll\NETFXSDK\4.8\Include\um\openum.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\src.Dll\NETFXSDK\4.8\Include\um\StrongName.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\src.Dll\NETFXSDK\4.8\Include\um\tlbref.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\src.Dll\NETFXSDK\4.8\Include\um\VerError.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\win32\jawt_md.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\win32\jni_md.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\win32\bridge\AccessBridgeCallbacks.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\win32\bridge\AccessBridgeCalls.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\win32\bridge\AccessBridgePackages.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\_output.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\_stream.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\alias.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\ApiRoutines.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\cmdline.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\CommandListPopup.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\CommandNumberPopup.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\conapi.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\conareainfo.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\conddkrefs.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\conimeinfo.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\conserv.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\ConsoleArguments.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\conv.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\conwinuserrefs.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\CopyFromCharPopup.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\CopyToCharPopup.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\CursorBlinker.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\dbcs.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\directio.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\getset.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\globals.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\handle.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\history.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\IIoProvider.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\init.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\input.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\inputBuffer.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\inputReadHandleData.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\misc.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\ntprivapi.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\output.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\outputStream.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\popup.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\precomp.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\PtySignalInputThread.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\readData.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\readDataCooked.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\readDataDirect.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\readDataRaw.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\registry.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\renderData.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\renderFontDefaults.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\resource.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\ScreenBufferRenderTarget.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\screenInfo.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\scrolling.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\selection.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\server.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\settings.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\srvinit.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\stream.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\telemetry.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\tracing.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\utf8ToWideCharParser.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\utils.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\VtInputThread.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\VtIo.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\host\writeData.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\abstract.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\AlignedNew.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\asdl.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\ast.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\astreambuf.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\asyncrt_utils.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_abi.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_activation.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_agile_ref.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_array.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_chrono.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_collections.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_collections_base.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_collections_input_iterable.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_collections_input_map.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_collections_input_map_view.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_collections_input_vector.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_collections_input_vector_view.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_collections_map.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_collections_vector.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_com_ptr.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_composable.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_coroutine.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_coroutine_foundation.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_coroutine_system.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_coroutine_threadpool.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_coroutine_ui_core.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_deferral.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_delegate.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_dependencies.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_error.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_events.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_extern.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_fast_forward.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_foundation.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_handle.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_identity.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_implements.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_lock.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_macros.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_marshaler.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_meta.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_natvis.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_reference_produce.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_security.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_std_hash.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_string.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_string_input.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_string_operators.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_types.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_uri.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_version.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_weak_ref.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_windows.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\base_xaml_typename.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\Bezier.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\BinaryReader.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\bitset.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\boolobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\bufferobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\classfile_constants.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\cmd_reader.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\cobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\code.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\code_writers.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\codecs.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\compile.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\complexobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\component_writers.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\ConstantBuffer.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\containerstream.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\DDS.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\DemandCreate.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\descrobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\driverlog.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\dtoa.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\EffectCommon.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\enumobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\errcode.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\file_writers.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\fileobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\filestream.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\floatobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\frameobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\global_timestamp_reader.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\hw-monitor.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\image.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\image-avx.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\interopstream.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\intobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\intrcheck.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\iterobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\ivrclientcore.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\jawt.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\jdwpTransport.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\jni.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\jvmti.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\jvmticmlr.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\metagrammar.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\methodobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\modsupport.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\moduleobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\node.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\oauth1.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\oauth2.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\object.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\objimpl.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\opcode.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\osdefs.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\parsetok.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\patchlevel.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\pch.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\pgen.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\pgenheaders.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\py_curses.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\pyarena.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\pycapsule.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\pyconfig.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\pyctype.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\pydebug.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\pyerrors.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\pyexpat.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\pyfpe.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\pygetopt.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\pymacconfig.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\pymactoolbox.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\pymath.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\pymem.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\pyport.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\pystate.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\pystrcmp.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\pystrtod.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\Python.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\Python-ast.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\pythonrun.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\pythread.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\rangeobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\rawptrstream.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\setobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\settings.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\SharedResourcePool.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\sliceobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\streams.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\stringobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\symtable.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\sysmodule.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\task_group.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\traceback.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\tupleobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\type_writers.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\ucnhash.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\unicodeobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\uri.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\uri_builder.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\vbo.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\version.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\warnings.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\weakrefobject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\winmd_reader.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\ws_client.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Visual C++ Source\ws_msg.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="SysWOW64.cpp">
@@ -38,10 +1349,2196 @@
     <ClCompile Include="pch.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
+    <ClCompile Include="E:\WSL-DistroLauncher-master\DistroLauncher\DistributionInfo.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\WSL-DistroLauncher-master\DistroLauncher\DistroLauncher.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\WSL-DistroLauncher-master\DistroLauncher\Helpers.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\WSL-DistroLauncher-master\DistroLauncher\stdafx.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\WSL-DistroLauncher-master\DistroLauncher\WslApiLoader.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\BasicEffect.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\BasicPostProcess.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\binaryparagraph.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\BinaryReader.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\build.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\checks.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\chrono.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\cofffilereader.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\commands.autocomplete.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\commands.buildexternal.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\commands.cache.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\commands.ci.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\commands.contact.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\commands.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\commands.create.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\commands.dependinfo.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\commands.edit.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\commands.env.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\commands.exportifw.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\commands.import.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\commands.integrate.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\commands.list.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\commands.owns.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\commands.porthistory.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\commands.portsdiff.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\commands.search.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\commands.upgrade.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\commands.version.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\commands.xvsinstances.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\CommonStates.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\DDSTextureLoader.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\DebugEffect.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\dependencies.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\DGSLEffect.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\DGSLEffectFactory.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\downloads.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\DRIVER_ADD_DEVICE.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\driver_sample.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\driverlog.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\DualPostProcess.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\DualTextureEffect.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\EffectCommon.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\EffectFactory.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\enums.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\EnvironmentMapEffect.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\export.chocolatey.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\export.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\files.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\GamePad.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\GeometricPrimitive.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\Geometry.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\globalstate.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\GraphicsMemory.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\hash.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\hellovr_dx12_main.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\help.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\input.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\install.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\IO_STACK_LOCATION.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\IoCallDriver.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\IoCheckLinkShareAccess.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\IoCreateSystemThread.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\IoRegisterPlugPlayNotification.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\IoSetDeviceInterfacePropertyData.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\iothub_deviceconfiguration.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\iothub_devicemethod.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\iothub_devicetwin.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\iothub_messaging.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\iothub_messaging_ll.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\iothub_registrymanager.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\iothub_sc_version.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\iothub_service_client_auth.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\IoUpdateLinkShareAccess.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\IoValidateDeviceIoControlAccess.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\jsoncpp.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\Keyboard.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\logicexpression.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\machinetype.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\main.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\metrics.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\Model.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\ModelLoadCMO.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\ModelLoadSDKMESH.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\ModelLoadVBO.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\Mouse.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\MP3decoder.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\NormalMapEffect.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\openvr_api_public.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\packagespec.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\packagespecparseresult.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\paragraphparseresult.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\paragraphs.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\parse.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\PBREffect.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\PBREffectFactory.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\pch.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\postbuildlint.buildtype.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\postbuildlint.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\PrimitiveBatch.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\remove.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\ScreenGrab.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\SimpleMath.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\SkinnedEffect.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\sourceparagraph.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\SpriteBatch.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\SpriteFont.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\statusparagraph.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\statusparagraphs.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\strings.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\stringview.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\system.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\system.print.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\ToneMapPostProcess.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\tools.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\triplet.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\update.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\userconfig.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\vcpkg.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\vcpkgcmdarguments.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\vcpkglib.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\vcpkgmetricsuploader.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\vcpkgpaths.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\versiont.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\VertexTypes.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\visualstudio.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\WICTextureLoader.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\XboxDDSTextureLoader.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\source\xwbtool.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\base\checks.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\base\chrono.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\base\cofffilereader.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\base\downloads.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\base\enums.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\base\files.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\base\hash.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\base\machinetype.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\base\strings.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\base\stringview.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\base\system.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\base\system.print.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\archives.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\binaryparagraph.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\build.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\commands.autocomplete.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\commands.buildexternal.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\commands.cache.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\commands.ci.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\commands.contact.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\commands.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\commands.create.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\commands.dependinfo.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\commands.edit.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\commands.env.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\commands.exportifw.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\commands.import.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\commands.integrate.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\commands.list.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\commands.owns.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\commands.porthistory.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\commands.portsdiff.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\commands.search.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\commands.upgrade.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\commands.version.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\commands.xvsinstances.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\dependencies.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\export.chocolatey.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\export.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\globalstate.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\help.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\input.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\install.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\logicexpression.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\metrics.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\packagespec.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\packagespecparseresult.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\paragraphparseresult.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\paragraphs.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\parse.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\postbuildlint.buildtype.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\postbuildlint.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\remove.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\sourceparagraph.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\statusparagraph.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\statusparagraphs.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\tools.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\triplet.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\update.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\userconfig.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\vcpkgcmdarguments.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\vcpkglib.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\vcpkgpaths.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\versiont.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vcpkg\visualstudio.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\SQL Integration Service\IO_STACK_LOCATION.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\SQL Integration Service\IoCallDriver.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\src.Dll\NETFXSDK\4.8\Include\um\corhlpr.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\win32\bridge\AccessBridgeCalls.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\_output.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\_stream.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\alias.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\cmdline.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\CommandListPopup.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\CommandNumberPopup.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\conareainfo.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\conattrs.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\conimeinfo.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\ConsoleArguments.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\consoleInformation.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\convarea.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\CopyFromCharPopup.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\CopyToCharPopup.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\CursorBlinker.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\dbcs.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\directio.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\exemain.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\getset.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\globals.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\handle.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\history.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\init.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\input.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\inputBuffer.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\inputKeyInfo.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\inputReadHandleData.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\misc.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\ntprivapi.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\output.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\outputStream.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\popup.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\precomp.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\PtySignalInputThread.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\readData.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\readDataCooked.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\readDataDirect.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\readDataRaw.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\registry.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\renderData.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\renderFontDefaults.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\ScreenBufferRenderTarget.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\screenInfo.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\scrolling.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\selection.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\selectionInput.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\selectionState.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\settings.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\srvinit.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\stream.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\telemetry.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\tracing.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\utf8ToWideCharParser.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\utils.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\VtInputThread.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\VtIo.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\host\writeData.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\AlphaTestEffect.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\archives.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\BasicEffect.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\BasicPostProcess.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\binaryparagraph.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\BinaryReader.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\build.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\cofffilereader.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\commands.autocomplete.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\commands.buildexternal.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\commands.cache.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\commands.ci.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\commands.contact.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\commands.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\commands.create.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\commands.dependinfo.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\commands.edit.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\commands.env.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\commands.exportifw.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\commands.import.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\commands.integrate.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\commands.list.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\commands.owns.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\commands.porthistory.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\commands.portsdiff.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\commands.search.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\commands.upgrade.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\commands.version.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\commands.xvsinstances.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\CommonStates.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\DDSTextureLoader.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\DebugEffect.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\dependencies.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\DGSLEffect.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\DGSLEffectFactory.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\DRIVER_ADD_DEVICE.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\driver_sample.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\driverlog.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\DualPostProcess.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\DualTextureEffect.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\EffectCommon.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\EffectFactory.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\enums.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\EnvironmentMapEffect.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\files.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\global_timestamp_reader.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\hw-monitor.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\image.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\image-avx.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\IO_STACK_LOCATION.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\IoCallDriver.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\IoCheckLinkShareAccess.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\IoCreateSystemThread.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\IoRegisterPlugPlayNotification.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\IoSetDeviceInterfacePropertyData.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\IoUpdateLinkShareAccess.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\IoValidateDeviceIoControlAccess.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\metrics.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\Model.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\ModelLoadCMO.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\ModelLoadSDKMESH.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\ModelLoadVBO.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\Mouse.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\NormalMapEffect.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\openvr_api_public.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\packagespec.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\packagespecparseresult.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\paragraphparseresult.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\paragraphs.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\parse.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\PBREffect.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\PBREffectFactory.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\pch.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\postbuildlint.buildtype.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\postbuildlint.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\PrimitiveBatch.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\SimpleMath.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\SkinnedEffect.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\sourceparagraph.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\SpriteBatch.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\SpriteFont.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\statusparagraph.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\statusparagraphs.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\strings.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\stringview.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\system.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\system.print.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\ToneMapPostProcess.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\tools.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\triplet.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\update.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\userconfig.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\vcpkgcmdarguments.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\vcpkglib.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\vcpkgpaths.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\versiont.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\VertexTypes.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\visualstudio.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\WICTextureLoader.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\XboxDDSTextureLoader.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Visual C++ Source\xwbtool.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="SysWOW64.rc">
       <Filter>Fichiers de ressources</Filter>
     </ResourceCompile>
+    <ResourceCompile Include="E:\WSL-DistroLauncher-master\DistroLauncher\DistroLauncher.rc">
+      <Filter>Fichiers de ressources</Filter>
+    </ResourceCompile>
+    <ResourceCompile Include="E:\Visual C++ Source\host\res.rc">
+      <Filter>Fichiers de ressources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\WSL-DistroLauncher-master\DistroLauncher-Appx\DistroLauncher-Appx.vcxproj" />
+    <None Include="E:\WSL-DistroLauncher-master\DistroLauncher-Appx\DistroLauncher-Appx.vcxproj.filters" />
+    <None Include="E:\WSL-DistroLauncher-master\DistroLauncher\DistroLauncher.vcxproj" />
+    <None Include="E:\WSL-DistroLauncher-master\DistroLauncher\DistroLauncher.vcxproj.filters" />
+    <None Include="E:\WSL-DistroLauncher-master\DistroLauncher\messages.mc" />
+    <None Include="E:\WSL-DistroLauncher-master\build.bat">
+      <Filter>Fichiers sources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Autorun.inf" />
+    <None Include="..\..\..\..\..\..\Program Files\Hyper-V\InspectVhdDialog.exe" />
+    <None Include="..\..\..\..\..\..\Program Files\Hyper-V\Microsoft.Virtualization.Client.Common.dll" />
+    <None Include="..\..\..\..\..\..\Program Files\Hyper-V\Microsoft.Virtualization.Client.Common.Types.dll" />
+    <None Include="..\..\..\..\..\..\Program Files\Hyper-V\Microsoft.Virtualization.Client.dll" />
+    <None Include="..\..\..\..\..\..\Program Files\Hyper-V\Microsoft.Virtualization.Client.Management.dll" />
+    <None Include="..\..\..\..\..\..\Program Files\Hyper-V\Microsoft.Virtualization.Client.RdpClientAxHost.dll" />
+    <None Include="..\..\..\..\..\..\Program Files\Hyper-V\Microsoft.Virtualization.Client.RdpClientInterop.dll" />
+    <None Include="..\..\..\..\..\..\Program Files\Hyper-V\Microsoft.Virtualization.Client.Settings.dll" />
+    <None Include="..\..\..\..\..\..\Program Files\Hyper-V\Microsoft.Virtualization.Client.VMBrowser.dll" />
+    <None Include="..\..\..\..\..\..\Program Files\Hyper-V\Microsoft.Virtualization.Client.Wizards.dll" />
+    <None Include="..\..\..\..\..\..\Program Files\Hyper-V\Newtonsoft.Json.dll" />
+    <None Include="..\..\..\..\..\..\Program Files\Hyper-V\SnapInAbout.dll" />
+    <None Include="..\..\..\..\..\..\Program Files\Hyper-V\VMCreate.exe" />
+    <None Include="..\..\..\..\..\..\Program Files\Hyper-V\VMImport.exe" />
+    <None Include="packages.config" />
+    <None Include="..\..\..\..\..\..\Program Files\Hyper-V\fr-FR\InspectVhdDialog.resources.dll" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Open XML SDK\V2.5\lib\DocumentFormat.OpenXml.dll" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\General.xss" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\IScanATA.xss" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\LoaderATA.xss" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\LoaderSCSI.xss" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools for DOS.EN.pdf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools for Windows.de-DE.pdf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools for Windows.en-US.pdf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools for Windows.es-ES.pdf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools for Windows.fr-FR.pdf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools for Windows.it-IT.pdf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools for Windows.ja-JP.pdf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools for Windows.ko-KR.pdf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools for Windows.pt-BR.pdf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools for Windows.ru-RU.pdf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools for Windows.th-TH.pdf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools for Windows.vi-VN.pdf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools for Windows.zh-CN.pdf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools for Windows.zh-TW.pdf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools_EULA_CHINESE(SIMP)_FINAL.rtf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools_EULA_CHINESE(TRAD)_FINAL.rtf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools_EULA_ENGLISH_FINAL.rtf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools_EULA_FRENCH(FR)_FINAL.rtf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools_EULA_GERMAN_FINAL.rtf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools_EULA_ITALIAN_FINAL.rtf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools_EULA_JAPANESE_FINAL.rtf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools_EULA_KOREAN_FINAL.rtf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools_EULA_PORTUGUESE_FINAL.rtf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools_EULA_RUSSIAN_FINAL.rtf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools_EULA_SPANISH_FINAL.rtf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools_EULA_THAI_FINAL.rtf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaTools_EULA_VIETNAMESE_FINAL.rtf" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaToolsDOS223ALL.ISO" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaToolsforWindows.exe" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SeaToolsforWindows.exe.config" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\SpawnCLR.dll" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\STW.xss" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\stxcon.exe" />
+    <None Include="E:\export.pdb" />
+    <None Include="E:\exportExt.pdb" />
+    <None Include="E:\source\Build.cmd" />
+    <None Include="E:\source\build.sh" />
+    <None Include="E:\source\build-all-steps (2).yml" />
+    <None Include="E:\source\build-all-steps.yml" />
+    <None Include="E:\source\buildfile.js" />
+    <None Include="E:\source\Build-OMS-Agent-for-Linux-master.zip" />
+    <None Include="E:\source\build-single-steps (2).yml" />
+    <None Include="E:\source\build-single-steps.yml" />
+    <None Include="E:\source\button.css" />
+    <None Include="E:\source\button.js" />
+    <None Include="E:\source\ByteStringBenchmarks.cs" />
+    <None Include="E:\source\ByteStringBenchmarks.cs - Raccourci.lnk" />
+    <None Include="E:\source\CachedPromise.ts" />
+    <None Include="E:\source\CachedValue.ts" />
+    <None Include="E:\source\CacheEntry.cs" />
+    <None Include="E:\source\CacheEntryExtensions.cs" />
+    <None Include="E:\source\CacheEntryHelper.cs" />
+    <None Include="E:\source\CacheEntryStack.cs" />
+    <None Include="E:\source\CacheItemPriority.cs" />
+    <None Include="E:\source\camion.url" />
+    <None Include="E:\source\carousel.js" />
+    <None Include="E:\source\CaseInsensitiveMap.ts" />
+    <None Include="E:\source\CefSharp.Wpf.Example.csproj" />
+    <None Include="E:\source\CefSharpCommands.cs" />
+    <None Include="E:\source\check-engine.js" />
+    <None Include="E:\source\check-git.js" />
+    <None Include="E:\source\check-platform.js" />
+    <None Include="E:\source\ChromeSetup.exe" />
+    <None Include="E:\source\ChromiumWebBrowserWithScreenshotSupport.cs" />
+    <None Include="E:\source\CLASSPATH_EXCEPTION_NOTE" />
+    <None Include="E:\source\cli.js" />
+    <None Include="E:\source\CMake-master.zip" />
+    <None Include="E:\source\codegen.browse-packages.js" />
+    <None Include="E:\source\codegen.js" />
+    <None Include="E:\source\CodeHub.iOS.csproj" />
+    <None Include="E:\source\CodeHub.iOS.csproj - Raccourci.lnk" />
+    <None Include="E:\source\codgen.template-deploy.js" />
+    <None Include="E:\source\Coffre-fort.lnk" />
+    <None Include="E:\source\collapse.js" />
+    <None Include="E:\source\Columns.cs" />
+    <None Include="E:\source\Completion.ts" />
+    <None Include="E:\source\ConnectWizard.js" />
+    <None Include="E:\source\ConnectWorkspaceFolder.js" />
+    <None Include="E:\source\ConsistentHashBenchmarks.cs" />
+    <None Include="E:\source\Constants.js" />
+    <None Include="E:\source\constants.ts" />
+    <None Include="E:\source\ContainerOperationProvider.cs" />
+    <None Include="E:\source\copyNuget.bash" />
+    <None Include="E:\source\core.css" />
+    <None Include="E:\source\Coverage.cs" />
+    <None Include="E:\source\CoverageDetails.cs" />
+    <None Include="E:\source\CoveragePrepareResult.cs" />
+    <None Include="E:\source\CoverageResult.cs" />
+    <None Include="E:\source\CoverageSummary.cs" />
+    <None Include="E:\source\coverlet.collector.csproj" />
+    <None Include="E:\source\coverlet.console.csproj" />
+    <None Include="E:\source\coverlet.core.csproj" />
+    <None Include="E:\source\coverlet.msbuild.tasks.csproj" />
+    <None Include="E:\source\cppwinrt.vcxproj" />
+    <None Include="E:\source\cppwinrt.vcxproj.filters" />
+    <None Include="E:\source\CredentialProvider.VSS.exe" />
+    <None Include="E:\source\csv.pyc" />
+    <None Include="E:\source\DatabaseOperations.cs" />
+    <None Include="E:\source\datepicker.css" />
+    <None Include="E:\source\db2pickle.py" />
+    <None Include="E:\source\dbhash.py" />
+    <None Include="E:\source\DDJ-SX2_V106.zip" />
+    <None Include="E:\source\DebugAssetsInitializer.js" />
+    <None Include="E:\source\debugMarkStrings.ts" />
+    <None Include="E:\source\DebugWorkspaceFolder.js" />
+    <None Include="E:\source\decimal.py" />
+    <None Include="E:\source\DependencyInjection.cs" />
+    <None Include="E:\source\Deploy-AzTemplate.ps1" />
+    <None Include="E:\source\Deploy-AzureResourceGroup.ps1" />
+    <None Include="E:\source\DeploymentTemplate.ts" />
+    <None Include="E:\source\DiagnosticLogManager.cs" />
+    <None Include="E:\source\dialog.css" />
+    <None Include="E:\source\DialogElements - Raccourci.lnk" />
+    <None Include="E:\source\diff.py" />
+    <None Include="E:\source\difflib.py" />
+    <None Include="E:\source\diffUtils.ts" />
+    <None Include="E:\source\dir.props" />
+    <None Include="E:\source\dir.targets" />
+    <None Include="E:\source\dircache.py" />
+    <None Include="E:\source\Directory.Build.targets" />
+    <None Include="E:\source\DirectXTK_Desktop_2015.sln" />
+    <None Include="E:\source\DirectXTK_Desktop_2015.vcxproj" />
+    <None Include="E:\source\DirectXTK_Desktop_2015.vcxproj.filters" />
+    <None Include="E:\source\DirectXTK_Desktop_2015_DXSDK.sln" />
+    <None Include="E:\source\DirectXTK_Desktop_2015_Win10.sln" />
+    <None Include="E:\source\DirectXTK_Desktop_2015_Win10.vcxproj" />
+    <None Include="E:\source\DirectXTK_Desktop_2015_Win10.vcxproj.filters" />
+    <None Include="E:\source\DirectXTK_Desktop_2017.sln" />
+    <None Include="E:\source\DirectXTK_Desktop_2017.vcxproj" />
+    <None Include="E:\source\DirectXTK_Desktop_2017.vcxproj.filters" />
+    <None Include="E:\source\DirectXTK_Desktop_2017_DXSDK.sln" />
+    <None Include="E:\source\DirectXTK_Desktop_2017_Win10.sln" />
+    <None Include="E:\source\DirectXTK_Desktop_2017_Win10.vcxproj" />
+    <None Include="E:\source\DirectXTK_Desktop_2017_Win10.vcxproj.filters" />
+    <None Include="E:\source\DirectXTK_Desktop_2019.sln" />
+    <None Include="E:\source\DirectXTK_Desktop_2019.vcxproj" />
+    <None Include="E:\source\DirectXTK_Desktop_2019.vcxproj.filters" />
+    <None Include="E:\source\DirectXTK_Desktop_2019_Win10.sln" />
+    <None Include="E:\source\DirectXTK_Desktop_2019_Win10.vcxproj" />
+    <None Include="E:\source\DirectXTK_Desktop_2019_Win10.vcxproj.filters" />
+    <None Include="E:\source\DirectXTK_Windows10_2015.sln" />
+    <None Include="E:\source\DirectXTK_Windows10_2015.vcxproj" />
+    <None Include="E:\source\DirectXTK_Windows10_2015.vcxproj.filters" />
+    <None Include="E:\source\DirectXTK_Windows10_2017.sln" />
+    <None Include="E:\source\DirectXTK_Windows10_2017.vcxproj" />
+    <None Include="E:\source\DirectXTK_Windows10_2017.vcxproj.filters" />
+    <None Include="E:\source\DirectXTK_Windows10_2019.sln" />
+    <None Include="E:\source\DirectXTK_Windows10_2019.vcxproj" />
+    <None Include="E:\source\DirectXTK_Windows10_2019.vcxproj.filters" />
+    <None Include="E:\source\DirectXTK_XboxOneXDK_2015.sln" />
+    <None Include="E:\source\DirectXTK_XboxOneXDK_2015.vcxproj" />
+    <None Include="E:\source\DirectXTK_XboxOneXDK_2015.vcxproj.filters" />
+    <None Include="E:\source\DirectXTK_XboxOneXDK_2017.sln" />
+    <None Include="E:\source\DirectXTK_XboxOneXDK_2017.vcxproj" />
+    <None Include="E:\source\DirectXTK_XboxOneXDK_2017.vcxproj.filters" />
+    <None Include="E:\source\dirs.proj" />
+    <None Include="E:\source\dis.py" />
+    <None Include="E:\source\dis.pyc" />
+    <None Include="E:\source\DISCLAIMER" />
+    <None Include="E:\source\DisplayHandler.cs" />
+    <None Include="E:\source\DistributedCacheEntryExtensions.cs" />
+    <None Include="E:\source\DistributedCacheEntryOptions.cs" />
+    <None Include="E:\source\DistributedCacheExtensions.cs" />
+    <None Include="E:\source\docs-master.zip" />
+    <None Include="E:\source\doctest.py" />
+    <None Include="E:\source\Document3 - Copie.cs" />
+    <None Include="E:\source\Document3.cs" />
+    <None Include="E:\source\DocumentFormat.OpenXml.dll" />
+    <None Include="E:\source\DocXMLRPCServer.py" />
+    <None Include="E:\source\DotNetOpenAuth.Core - Copie.csproj" />
+    <None Include="E:\source\DotNetOpenAuth.Core.csproj" />
+    <None Include="E:\source\dotnet-tools.json" />
+    <None Include="E:\source\draggable.css" />
+    <None Include="E:\source\DragHandler.cs" />
+    <None Include="E:\source\DRIVER_ADD_DEVICE.c++" />
+    <None Include="E:\source\driver_sample.vcxproj" />
+    <None Include="E:\source\DRIVER_STARTIO.c++" />
+    <None Include="E:\source\DropAllDatabases.sql" />
+    <None Include="E:\source\dropdown.js" />
+    <None Include="E:\source\drvupdate-amd64.exe" />
+    <None Include="E:\source\dumbdbm.py" />
+    <None Include="E:\source\dummy_thread.py" />
+    <None Include="E:\source\dummy_threading.py" />
+    <None Include="E:\source\Duration.ts" />
+    <None Include="E:\source\dutree.py" />
+    <None Include="E:\source\DynamicCodeDumper.csproj" />
+    <None Include="E:\source\EntityFramework - Copie.csproj" />
+    <None Include="E:\source\EntityFramework.6.3.0 - Copie.nupkg" />
+    <None Include="E:\source\EntityFramework.6.3.0.nupkg" />
+    <None Include="E:\source\EntityFramework.6.3.0.nuspec" />
+    <None Include="E:\source\EntityFramework.csproj" />
+    <None Include="E:\source\EntityFramework.NuGet.csproj" />
+    <None Include="E:\source\Epic Games Launcher.lnk" />
+    <None Include="E:\source\escodegen.js" />
+    <None Include="E:\source\essentials.yml" />
+    <None Include="E:\source\EvictionReason.cs" />
+    <None Include="E:\source\ExecutionContext.cs" />
+    <None Include="E:\source\ExitCodes.cs" />
+    <None Include="E:\source\ExperimentalLifespanHandler.cs" />
+    <None Include="E:\source\Export to InstallAware Virtualization.lnk" />
+    <None Include="E:\source\export.pdb" />
+    <None Include="E:\source\exportExt.pdb" />
+    <None Include="E:\source\ExpressionManager.cs" />
+    <None Include="E:\source\ExpressionType.ts" />
+    <None Include="E:\source\extension.js" />
+    <None Include="E:\source\extension.ts" />
+    <None Include="E:\source\ExtensionHost.js" />
+    <None Include="E:\source\extensionmanager.ts" />
+    <None Include="E:\source\ExtensionsMetadataGeneratorVersion.props" />
+    <None Include="E:\source\extensionVariables.ts" />
+    <None Include="E:\source\FastLazyBenchmarks.cs" />
+    <None Include="E:\source\filecmp.py" />
+    <None Include="E:\source\fileinput.py" />
+    <None Include="E:\source\FileSaver.js" />
+    <None Include="E:\source\FileSaver.js-master.zip" />
+    <None Include="E:\source\find_recursionlimit.py" />
+    <None Include="E:\source\finddiv.py" />
+    <None Include="E:\source\findlinksto.py" />
+    <None Include="E:\source\findnocoding.py" />
+    <None Include="E:\source\Firefox Installer.exe" />
+    <None Include="E:\source\Firefox.lnk" />
+    <None Include="E:\source\fixcid.py" />
+    <None Include="E:\source\fixdiv.py" />
+    <None Include="E:\source\fixed_assert.ts" />
+    <None Include="E:\source\fixheader.py" />
+    <None Include="E:\source\fixnotice.py" />
+    <None Include="E:\source\fixps.py" />
+    <None Include="E:\source\fnmatch.py" />
+    <None Include="E:\source\fnmatch.pyc" />
+    <None Include="E:\source\follow-redirects.js" />
+    <None Include="E:\source\formatter.py" />
+    <None Include="E:\source\fpformat.py" />
+    <None Include="E:\source\fractions.py" />
+    <None Include="E:\source\Friends.cs" />
+    <None Include="E:\source\ftplib.py" />
+    <None Include="E:\source\FunctionsSdk.sln" />
+    <None Include="E:\source\functools.py" />
+    <None Include="E:\source\functools.pyc" />
+    <None Include="E:\source\GeneratedInternalTypeHelper.g.cs" />
+    <None Include="E:\source\GeneratedInternalTypeHelper.g.i.cs" />
+    <None Include="E:\source\genericpath.py" />
+    <None Include="E:\source\genericpath.pyc" />
+    <None Include="E:\source\getopt.pyc" />
+    <None Include="E:\source\Git-2.23.0-64-bit.exe.s53txw4 - Copie.partial" />
+    <None Include="E:\source\Git-2.23.0-64-bit.exe.s53txw4.partial" />
+    <None Include="E:\source\GitForWindows.2.23.0.nuspec" />
+    <None Include="E:\source\GitHub_Connector_for_Microsoft_Teams.zip" />
+    <None Include="E:\source\glob.py" />
+    <None Include="E:\source\glob.pyc" />
+    <None Include="E:\source\global.js" />
+    <None Include="E:\source\global.json" />
+    <None Include="E:\source\goBaseCodelens.ts" />
+    <None Include="E:\source\goBrowsePackage.ts" />
+    <None Include="E:\source\goBuild.ts" />
+    <None Include="E:\source\goCheck.ts" />
+    <None Include="E:\source\goCodeAction.ts" />
+    <None Include="E:\source\goCover.ts" />
+    <None Include="E:\source\goDebugConfiguration.ts" />
+    <None Include="E:\source\goDeclaration.ts" />
+    <None Include="E:\source\goDoctor.ts" />
+    <None Include="E:\source\goExtraInfo.ts" />
+    <None Include="E:\source\goFillStruct.ts" />
+    <None Include="E:\source\goFormat.ts" />
+    <None Include="E:\source\goGenerateTests.ts" />
+    <None Include="E:\source\goGetPackage.ts" />
+    <None Include="E:\source\goImpl.ts" />
+    <None Include="E:\source\goImplementations.ts" />
+    <None Include="E:\source\goImport.ts" />
+    <None Include="E:\source\goInstall.ts" />
+    <None Include="E:\source\goInstallTools.ts" />
+    <None Include="E:\source\goLanguageServer.ts" />
+    <None Include="E:\source\goLint.ts" />
+    <None Include="E:\source\goLiveErrors.ts" />
+    <None Include="E:\source\goMain.ts" />
+    <None Include="E:\source\goMode.ts" />
+    <None Include="E:\source\goModifytags.ts" />
+    <None Include="E:\source\goModules.ts" />
+    <None Include="E:\source\Google Chrome.lnk" />
+    <None Include="E:\source\google.py" />
+    <None Include="E:\source\goOutline.ts" />
+    <None Include="E:\source\goPackages.ts" />
+    <None Include="E:\source\goPath.ts" />
+    <None Include="E:\source\goPlayground.ts" />
+    <None Include="E:\source\goRefactor.ts" />
+    <None Include="E:\source\goReferences.ts" />
+    <None Include="E:\source\goReferencesCodelens.ts" />
+    <None Include="E:\source\goRename.ts" />
+    <None Include="E:\source\goRunTestCodelens.ts" />
+    <None Include="E:\source\goSignature.ts" />
+    <None Include="E:\source\goStatus.ts" />
+    <None Include="E:\source\goSuggest.ts" />
+    <None Include="E:\source\goSymbol.ts" />
+    <None Include="E:\source\goTest.ts" />
+    <None Include="E:\source\goTools.ts" />
+    <None Include="E:\source\goTypeDefinition.ts" />
+    <None Include="E:\source\goVet.ts" />
+    <None Include="E:\source\gprof2html.py" />
+    <None Include="E:\source\gradle-master.zip" />
+    <None Include="E:\source\groovy-3.0.0-rc-1-installer.exe" />
+    <None Include="E:\source\groovy-master.zip" />
+    <None Include="E:\source\gzip.py" />
+    <None Include="E:\source\gzip.pyc" />
+    <None Include="E:\source\h2py.py" />
+    <None Include="E:\source\hashlib.py" />
+    <None Include="E:\source\hashlib.pyc" />
+    <None Include="E:\source\haxm-master.zip" />
+    <None Include="E:\source\heapq.py" />
+    <None Include="E:\source\heapq.pyc" />
+    <None Include="E:\source\hellovr_dx12.vcxproj" />
+    <None Include="E:\source\hellovr_dx12.vcxproj.filters" />
+    <None Include="E:\source\Histogram.ts" />
+    <None Include="E:\source\hmac.py" />
+    <None Include="E:\source\hmac.pyc" />
+    <None Include="E:\source\host.js" />
+    <None Include="E:\source\HostBuilderExtensions.cs" />
+    <None Include="E:\source\hotshotmain.py" />
+    <None Include="E:\source\Hover.ts" />
+    <None Include="E:\source\htmlentitydefs.py" />
+    <None Include="E:\source\htmlentitydefs.pyc" />
+    <None Include="E:\source\htmllib.py" />
+    <None Include="E:\source\HTMLParser.py" />
+    <None Include="E:\source\HTMLParser.pyc" />
+    <None Include="E:\source\httpGet.ts" />
+    <None Include="E:\source\httplib.py" />
+    <None Include="E:\source\httplib.pyc" />
+    <None Include="E:\source\ICacheEntry.cs" />
+    <None Include="E:\source\IDatabaseOperations.cs" />
+    <None Include="E:\source\IDistributedCache.cs" />
+    <None Include="E:\source\ifdef.py" />
+    <None Include="E:\source\IFunctionMetadata.ts" />
+    <None Include="E:\source\ihooks.py" />
+    <None Include="E:\source\imaplib.py" />
+    <None Include="E:\source\IMemoryCache.cs" />
+    <None Include="E:\source\imghdr.py" />
+    <None Include="E:\source\imputil.py" />
+    <None Include="E:\source\INamedDefinition.ts" />
+    <None Include="E:\source\IncorrectArgumentsCountIssue.ts" />
+    <None Include="E:\source\insiders (2).yml" />
+    <None Include="E:\source\insiders.yml" />
+    <None Include="E:\source\inspect.py" />
+    <None Include="E:\source\inspect.pyc" />
+    <None Include="E:\source\InstallAware Digital Rights Management.lnk" />
+    <None Include="E:\source\InstallAware Studio Admin X10.lnk" />
+    <None Include="E:\source\InstallAware X10 Documentation.lnk" />
+    <None Include="E:\source\installer.cmd" />
+    <None Include="E:\source\installer.sh" />
+    <None Include="E:\source\InstallScript.iap_xml - Raccourci.lnk" />
+    <None Include="E:\source\InstallShieldLite.exe" />
+    <None Include="E:\source\intercept.js" />
+    <None Include="E:\source\InvalidFunctionContextIssue.ts" />
+    <None Include="E:\source\io.py" />
+    <None Include="E:\source\io.pyc" />
+    <None Include="E:\source\IoCreateSystemThread.c++" />
+    <None Include="E:\source\iothub_service_client.def">
+      <Filter>Fichiers sources</Filter>
+    </None>
+    <None Include="E:\source\IoValidateDeviceIoControlAccess.c++" />
+    <None Include="E:\source\IParameterDefinition.ts" />
+    <None Include="E:\source\IUnhandledExceptionHandler.cs" />
+    <None Include="E:\source\JavascriptCallbackMainWindow.xaml.cs" />
+    <None Include="E:\source\jenkins-master.zip" />
+    <None Include="E:\source\JobExtension.cs" />
+    <None Include="E:\source\JobExtensionRunner.cs" />
+    <None Include="E:\source\JobRunner.cs" />
+    <None Include="E:\source\jquery.validate.unobtrusive.js" />
+    <None Include="E:\source\jquery.validate.unobtrusive.min.js" />
+    <None Include="E:\source\jquery-ui.css" />
+    <None Include="E:\source\jquery-ui.min.css" />
+    <None Include="E:\source\JSON.ts" />
+    <None Include="E:\source\jsoneditor.js" />
+    <None Include="E:\source\keyword.py" />
+    <None Include="E:\source\keyword.pyc" />
+    <None Include="E:\source\KFAT1 (H) - Raccourci.lnk" />
+    <None Include="E:\source\Language.ts" />
+    <None Include="E:\source\lfcr.py" />
+    <None Include="E:\source\libmpg123-0.10.zip" />
+    <None Include="E:\source\libraries.cmd" />
+    <None Include="E:\source\libraries.sh" />
+    <None Include="E:\source\librealsense-master.zip" />
+    <None Include="E:\source\LICENSE" />
+    <None Include="E:\source\LICENSE (2)" />
+    <None Include="E:\source\linecache.py" />
+    <None Include="E:\source\linecache.pyc" />
+    <None Include="E:\source\linktree.py" />
+    <None Include="E:\source\linux-sgx-master.zip" />
+    <None Include="E:\source\lll.py" />
+    <None Include="E:\source\locale.py" />
+    <None Include="E:\source\locale.pyc" />
+    <None Include="E:\source\localversion.tf1" />
+    <None Include="E:\source\localversion.tfb" />
+    <None Include="E:\source\logmerge.py" />
+    <None Include="E:\source\LuaExtension.msi" />
+    <None Include="E:\source\macpath.py" />
+    <None Include="E:\source\macurl2path.py" />
+    <None Include="E:\source\mailbox.py" />
+    <None Include="E:\source\mailcap.py" />
+    <None Include="E:\source\mailerdaemon.py" />
+    <None Include="E:\source\main.js" />
+    <None Include="E:\source\MainWindow.g.cs" />
+    <None Include="E:\source\MainWindow.g.cs - Raccourci.lnk" />
+    <None Include="E:\source\MainWindow.g.i.cs" />
+    <None Include="E:\source\MainWindow.g.i.cs - Raccourci.lnk" />
+    <None Include="E:\source\Makefile" />
+    <None Include="E:\source\Makefile.dryice.js" />
+    <None Include="E:\source\ManagementScriptStep.cs" />
+    <None Include="E:\source\markupbase.py" />
+    <None Include="E:\source\markupbase.pyc" />
+    <None Include="E:\source\MaterializationBenchmarks.cs" />
+    <None Include="E:\source\Math Input Panel.lnk" />
+    <None Include="E:\source\MAXTOR (L) - Raccourci.lnk" />
+    <None Include="E:\source\McMaster.Extensions.Hosting.CommandLine.csproj" />
+    <None Include="E:\source\md5.py" />
+    <None Include="E:\source\md5sum.py" />
+    <None Include="E:\source\MediaCreationTool1903.exe" />
+    <None Include="E:\source\MemoryCache.cs" />
+    <None Include="E:\source\MemoryCacheEntryExtensions.cs" />
+    <None Include="E:\source\MemoryCacheEntryOptions.cs" />
+    <None Include="E:\source\MemoryCacheExtensions.cs" />
+    <None Include="E:\source\MemoryCacheOptions.cs" />
+    <None Include="E:\source\MemoryCacheServiceCollectionExtensions.cs" />
+    <None Include="E:\source\MemoryDistributedCache.cs" />
+    <None Include="E:\source\MemoryDistributedCacheOptions.cs" />
+    <None Include="E:\source\menu.css" />
+    <None Include="E:\source\MenuHandler.cs" />
+    <None Include="E:\source\methfix.py" />
+    <None Include="E:\source\mhlib.py" />
+    <None Include="E:\source\Microsoft Edge.lnk" />
+    <None Include="E:\source\Microsoft.AspNet.WebApi.Client.csproj" />
+    <None Include="E:\source\Microsoft.AspNet.WebApi.Core.5.2.7.nupkg" />
+    <None Include="E:\source\Microsoft.AspNetCore.Server.Kestrel.Https - Copie.dll" />
+    <None Include="E:\source\Microsoft.AspNetCore.Server.Kestrel.Https.dll" />
+    <None Include="E:\source\Microsoft.AspNetCore.WebUtilities.csproj" />
+    <None Include="E:\source\Microsoft.Azure.Management.Search.csproj" />
+    <None Include="E:\source\Microsoft.Azure.Management.ServerManagement.csproj" />
+    <None Include="E:\source\Microsoft.Azure.Search.Common.csproj" />
+    <None Include="E:\source\Microsoft.Azure.Search.Common.csproj - Raccourci.lnk" />
+    <None Include="E:\source\Microsoft.Azure.Search.Data.csproj" />
+    <None Include="E:\source\Microsoft.Azure.Search.Data.csproj - Raccourci.lnk" />
+    <None Include="E:\source\Microsoft.Azure.Search.Service.csproj" />
+    <None Include="E:\source\Microsoft.Azure.Search.Service.csproj - Raccourci.lnk" />
+    <None Include="E:\source\Microsoft.Azure.Search.Tests.csproj" />
+    <None Include="E:\source\Microsoft.Azure.Search.Tests.csproj - Raccourci.lnk" />
+    <None Include="E:\source\Microsoft.Build.Framework.tlb" />
+    <None Include="E:\source\microsoft.codecoverage.16.4.0.nupkg" />
+    <None Include="E:\source\Microsoft.Common.CrossTargeting.targets" />
+    <None Include="E:\source\Microsoft.Common.CurrentVersion.targets" />
+    <None Include="E:\source\Microsoft.Common.overridetasks" />
+    <None Include="E:\source\Microsoft.Common.targets" />
+    <None Include="E:\source\Microsoft.Common.tasks" />
+    <None Include="E:\source\Microsoft.CSharp.CrossTargeting.targets" />
+    <None Include="E:\source\Microsoft.CSharp.CurrentVersion.targets" />
+    <None Include="E:\source\Microsoft.CSharp.targets" />
+    <None Include="E:\source\Microsoft.Data.Entity.targets" />
+    <None Include="E:\source\Microsoft.DocAsCode.Build.ManagedReference.2.47.0.nupkg" />
+    <None Include="E:\source\Microsoft.DocAsCode.Build.RestApi.2.47.0.nupkg" />
+    <None Include="E:\source\Microsoft.Expression.Interactions.dll" />
+    <None Include="E:\source\Microsoft.Extensions.Caching.Abstractions.csproj" />
+    <None Include="E:\source\Microsoft.Extensions.Caching.Memory.csproj" />
+    <None Include="E:\source\Microsoft.Extensions.Caching.SqlServer.csproj" />
+    <None Include="E:\source\Microsoft.Extensions.Caching.StackExchangeRedis.csproj" />
+    <None Include="E:\source\Microsoft.Managed.targets" />
+    <None Include="E:\source\Microsoft.Net.Native.Compiler.csproj" />
+    <None Include="E:\source\Microsoft.NETCore.App.Ref.3.1.0-preview2.19525.6.nupkg" />
+    <None Include="E:\source\Microsoft.NETCore.App.Ref.3.1.0-preview2.19525.6.nuspec" />
+    <None Include="E:\source\Microsoft.NETFramework.CurrentVersion.props" />
+    <None Include="E:\source\Microsoft.NETFramework.CurrentVersion.targets" />
+    <None Include="E:\source\Microsoft.NETFramework.props" />
+    <None Include="E:\source\Microsoft.NETFramework.targets" />
+    <None Include="E:\source\Microsoft.ServiceModel.targets" />
+    <None Include="E:\source\Microsoft.VisualBasic.CrossTargeting.targets" />
+    <None Include="E:\source\Microsoft.VisualBasic.CurrentVersion.targets" />
+    <None Include="E:\source\Microsoft.VisualBasic.targets" />
+    <None Include="E:\source\Microsoft.VisualStudio.Offline.config" />
+    <None Include="E:\source\Microsoft.VisualStudio.Setup.Configuration.Interop.targets" />
+    <None Include="E:\source\Microsoft.VisualStudioVersion.v11.Common.props" />
+    <None Include="E:\source\Microsoft.VisualStudioVersion.v12.Common.props" />
+    <None Include="E:\source\Microsoft.VisualStudioVersion.v14.Common.props" />
+    <None Include="E:\source\Microsoft.WinFx.targets" />
+    <None Include="E:\source\Microsoft.Workflow.VisualStudio.Configurator.exe.config" />
+    <None Include="E:\source\Microsoft.WorkflowBuildExtensions.targets" />
+    <None Include="E:\source\Microsoft.Xaml.targets" />
+    <None Include="E:\source\Microsoft_Graph_data_connect.zip" />
+    <None Include="E:\source\mimetools.py" />
+    <None Include="E:\source\mimetools.pyc" />
+    <None Include="E:\source\mimetypes.py" />
+    <None Include="E:\source\mimetypes.pyc" />
+    <None Include="E:\source\MimeWriter.py" />
+    <None Include="E:\source\mimify.py" />
+    <None Include="E:\source\mkreal.py" />
+    <None Include="E:\source\MLOps_with_Azure_ML.zip" />
+    <None Include="E:\source\MM_manifest.properties" />
+    <None Include="E:\source\modal.js" />
+    <None Include="E:\source\modulefinder.py" />
+    <None Include="E:\source\MonoDatabaseOperations.cs" />
+    <None Include="E:\source\MonoSqlParameterCollectionExtensions.cs" />
+    <None Include="E:\source\moq.4.10.0.nupkg.sha512" />
+    <None Include="E:\source\Moq.4.10.0.s618283749_v5.224.json" />
+    <None Include="E:\source\mpc_check.cs" />
+    <None Include="E:\source\mpc_check.cs - Raccourci.lnk" />
+    <None Include="E:\source\MSBuild.exe.config" />
+    <None Include="E:\source\MsCrmTools.MetadataBrowser.dll" />
+    <None Include="E:\source\multifile.py" />
+    <None Include="E:\source\Musique - Raccourci.lnk" />
+    <None Include="E:\source\mutex.py" />
+    <None Include="E:\source\My First Integration Services Solution.zip" />
+    <None Include="E:\source\My-DevOps-Repos.code-workspace" />
+    <None Include="E:\source\native-client-master.zip" />
+    <None Include="E:\source\Navigateur Opera.lnk" />
+    <None Include="E:\source\ndiff.py" />
+    <None Include="E:\source\netrc.py" />
+    <None Include="E:\source\new.py" />
+    <None Include="E:\source\nm2def.py" />
+    <None Include="E:\source\nntplib.py" />
+    <None Include="E:\source\NonReloadingTabControl.cs" />
+    <None Include="E:\source\npm-user-validate.js" />
+    <None Include="E:\source\ntpath.py" />
+    <None Include="E:\source\ntpath.pyc" />
+    <None Include="E:\source\nturl2path.py" />
+    <None Include="E:\source\nturl2path.pyc" />
+    <None Include="E:\source\NuGet.config" />
+    <None Include="E:\source\NuGet.Frameworks.5.3.0+b75150f2f4127a77a166c9552845e86fb24a3282.nupkg" />
+    <None Include="E:\source\NuGet.Services.DatabaseMigration - Raccourci.lnk" />
+    <None Include="E:\source\NuGet.Services.Entities - Raccourci.lnk" />
+    <None Include="E:\source\NuGet.targets" />
+    <None Include="E:\source\NuGetGallery - Raccourci.lnk" />
+    <None Include="E:\source\NuGetGallery.Core - Raccourci.lnk" />
+    <None Include="E:\source\NuGetGallery.Services - Raccourci.lnk" />
+    <None Include="E:\source\numbers.py" />
+    <None Include="E:\source\oacref.zip" />
+    <None Include="E:\source\oajcinstaller.jar" />
+    <None Include="E:\source\obj - Raccourci.lnk" />
+    <None Include="E:\source\objgraph.py" />
+    <None Include="E:\source\odbcigs.zip" />
+    <None Include="E:\source\OneDrive.lnk" />
+    <None Include="E:\source\onnxruntime-master.zip" />
+    <None Include="E:\source\opcode.py" />
+    <None Include="E:\source\opcode.pyc" />
+    <None Include="E:\source\openvr_api.cs" />
+    <None Include="E:\source\openvr_api.cs - Raccourci.lnk" />
+    <None Include="E:\source\optparse.py" />
+    <None Include="E:\source\optparse.pyc" />
+    <None Include="E:\source\os.py" />
+    <None Include="E:\source\os.pyc" />
+    <None Include="E:\source\os2emxpath.py" />
+    <None Include="E:\source\OutputDefinition.ts" />
+    <None Include="E:\source\package (2).json" />
+    <None Include="E:\source\package.config.csproj" />
+    <None Include="E:\source\package.json" />
+    <None Include="E:\source\packages.config" />
+    <None Include="E:\source\Paint.lnk" />
+    <None Include="E:\source\ParameterDefinition.ts" />
+    <None Include="E:\source\parseentities.py" />
+    <None Include="E:\source\patchcheck.py" />
+    <None Include="E:\source\pathfix.py" />
+    <None Include="E:\source\paths.js" />
+    <None Include="E:\source\pdb.py" />
+    <None Include="E:\source\pdeps.py" />
+    <None Include="E:\source\pendingchanges.tf1" />
+    <None Include="E:\source\pendingchanges.tfb" />
+    <None Include="E:\source\PerfBenchmarkDotNet.csproj" />
+    <None Include="E:\source\PerfBenchmarkDotNet.csproj - Raccourci.lnk" />
+    <None Include="E:\source\PerfNetFramework.csproj" />
+    <None Include="E:\source\PerfNetFramework.csproj - Raccourci.lnk" />
+    <None Include="E:\source\pickle.py" />
+    <None Include="E:\source\pickle2db.py" />
+    <None Include="E:\source\pickletools.py" />
+    <None Include="E:\source\pindent.py" />
+    <None Include="E:\source\PingPongBenchmarks.cs" />
+    <None Include="E:\source\PingPongBenchmarks.cs - Raccourci.lnk" />
+    <None Include="E:\source\Pioneer_CDJXDJ_Driver_1.500.exe" />
+    <None Include="E:\source\pipeline.user.linux (2).yml" />
+    <None Include="E:\source\pipeline.user.linux.yml" />
+    <None Include="E:\source\pipeline.user.windows (2).yml" />
+    <None Include="E:\source\pipeline.user.windows.yml" />
+    <None Include="E:\source\pipes.py" />
+    <None Include="E:\source\pipes.pyc" />
+    <None Include="E:\source\pkgutil.py" />
+    <None Include="E:\source\pkgutil.pyc" />
+    <None Include="E:\source\platform.py" />
+    <None Include="E:\source\platform.pyc" />
+    <None Include="E:\source\PlatformHelper.cs" />
+    <None Include="E:\source\PlatformHelper.cs - Raccourci.lnk" />
+    <None Include="E:\source\plistlib.py" />
+    <None Include="E:\source\plistlib.pyc" />
+    <None Include="E:\source\PluginInternalCommandExtension.cs" />
+    <None Include="E:\source\PluginInternalCommandExtension.cs - Raccourci.lnk" />
+    <None Include="E:\source\popen2.py" />
+    <None Include="E:\source\poplib.py" />
+    <None Include="E:\source\popover.js" />
+    <None Include="E:\source\PositionContext.ts" />
+    <None Include="E:\source\posixfile.py" />
+    <None Include="E:\source\posixpath.py" />
+    <None Include="E:\source\posixpath.pyc" />
+    <None Include="E:\source\PostEvictionCallbackRegistration.cs" />
+    <None Include="E:\source\PostEvictionDelegate.cs" />
+    <None Include="E:\source\pprint.py" />
+    <None Include="E:\source\pprint.pyc" />
+    <None Include="E:\source\profile.py" />
+    <None Include="E:\source\ProfilingSample - Raccourci.lnk" />
+    <None Include="E:\source\Program.cs" />
+    <None Include="E:\source\Program.cs - Raccourci.lnk" />
+    <None Include="E:\source\PROGRESS_DATADIRECT_JDBC_COMMON_6.0.0_INSTALL.iam.zip" />
+    <None Include="E:\source\PROGRESS_DATADIRECT_JDBC_DOCUMENTATION_6.0.0_INSTALL.iam.zip" />
+    <None Include="E:\source\PROGRESS_DATADIRECT_JDBC_SQLSERVER_6.0.0_INSTALL.iam.zip" />
+    <None Include="E:\source\progressbar.css" />
+    <None Include="E:\source\PromptItem.js" />
+    <None Include="E:\source\Properties - Raccourci.lnk" />
+    <None Include="E:\source\properties.tf1" />
+    <None Include="E:\source\pstats.py" />
+    <None Include="E:\source\ptags.py" />
+    <None Include="E:\source\pty.py" />
+    <None Include="E:\source\py_compile.py" />
+    <None Include="E:\source\py_compile.pyc" />
+    <None Include="E:\source\pyclbr.py" />
+    <None Include="E:\source\pydoc.py" />
+    <None Include="E:\source\pydocgui.pyw" />
+    <None Include="E:\source\pysource.py" />
+    <None Include="E:\source\Queue.py" />
+    <None Include="E:\source\Queue.pyc" />
+    <None Include="E:\source\Quick Assist.lnk" />
+    <None Include="E:\source\QuickTime Player.lnk" />
+    <None Include="E:\source\quopri.py" />
+    <None Include="E:\source\quopri.pyc" />
+    <None Include="E:\source\random.py" />
+    <None Include="E:\source\random.pyc" />
+    <None Include="E:\source\re.py" />
+    <None Include="E:\source\re.pyc" />
+    <None Include="E:\source\reactxp-master.zip" />
+    <None Include="E:\source\read-json.js" />
+    <None Include="E:\source\README (2).md" />
+    <None Include="E:\source\README.md" />
+    <None Include="E:\source\README.md - Raccourci.lnk" />
+    <None Include="E:\source\redemo.py" />
+    <None Include="E:\source\RedisCache.cs" />
+    <None Include="E:\source\RedisCacheOptions.cs" />
+    <None Include="E:\source\RedisCacheSample - Raccourci.lnk" />
+    <None Include="E:\source\RedisExtensions.cs" />
+    <None Include="E:\source\ref - Raccourci.lnk" />
+    <None Include="E:\source\ReferenceList.ts" />
+    <None Include="E:\source\reindent.py" />
+    <None Include="E:\source\reindent-rst.py" />
+    <None Include="E:\source\rekordbox 5.lnk" />
+    <None Include="E:\source\release" />
+    <None Include="E:\source\Remote Desktop Connection.lnk" />
+    <None Include="E:\source\Reporters - Raccourci.lnk" />
+    <None Include="E:\source\repr.py" />
+    <None Include="E:\source\RequestContextHandler.cs" />
+    <None Include="E:\source\RequestContextHandler.cs - Raccourci.lnk" />
+    <None Include="E:\source\resizable.css" />
+    <None Include="E:\source\Resources - Raccourci.lnk" />
+    <None Include="E:\source\rexec.py" />
+    <None Include="E:\source\rfc822.py" />
+    <None Include="E:\source\rfc822.pyc" />
+    <None Include="E:\source\rgrep.py" />
+    <None Include="E:\source\rlcompleter.py" />
+    <None Include="E:\source\robotparser.py" />
+    <None Include="E:\source\root CA - Copie.ps1" />
+    <None Include="E:\source\root CA.ps1" />
+    <None Include="E:\source\run_build (2).yml" />
+    <None Include="E:\source\run_build.yml" />
+    <None Include="E:\source\runpy.py" />
+    <None Include="E:\source\runpy.pyc" />
+    <None Include="E:\source\runtime-master.zip" />
+    <None Include="E:\source\samples-master.zip" />
+    <None Include="E:\source\Sandbox.csproj" />
+    <None Include="E:\source\Sandbox.csproj - Raccourci.lnk" />
+    <None Include="E:\source\sched.py" />
+    <None Include="E:\source\schemas.ts" />
+    <None Include="E:\source\scrollspy.js" />
+    <None Include="E:\source\sdk-master.zip" />
+    <None Include="E:\source\SeagateToolkit.exe" />
+    <None Include="E:\source\SeaToolsforWindowsSetup.exe" />
+    <None Include="E:\source\SECURITY.md" />
+    <None Include="E:\source\selectable.css" />
+    <None Include="E:\source\selectmenu.css" />
+    <None Include="E:\source\Serato DJ Pro .lnk" />
+    <None Include="E:\source\Serato DJ Pro 2.3.2.zip" />
+    <None Include="E:\source\Serato Studio 1.4.0.zip" />
+    <None Include="E:\source\Serato Studio.lnk" />
+    <None Include="E:\source\SerializationBenchmarks.cs" />
+    <None Include="E:\source\SerializationBenchmarks.cs - Raccourci.lnk" />
+    <None Include="E:\source\SerializerBenchmark.csproj" />
+    <None Include="E:\source\SerializerBenchmark.csproj - Raccourci.lnk" />
+    <None Include="E:\source\Serializers - Raccourci.lnk" />
+    <None Include="E:\source\Serilog.2.9.0.nupkg" />
+    <None Include="E:\source\serve.py" />
+    <None Include="E:\source\server (2).js" />
+    <None Include="E:\source\server.js" />
+    <None Include="E:\source\server.ts" />
+    <None Include="E:\source\ServiceClassifier.js" />
+    <None Include="E:\source\Services - Raccourci.lnk" />
+    <None Include="E:\source\SessionRecords - Raccourci.lnk" />
+    <None Include="E:\source\sets.py" />
+    <None Include="E:\source\setup - Raccourci.lnk" />
+    <None Include="E:\source\setup.py" />
+    <None Include="E:\source\SetupGemBoxDocument31.msi" />
+    <None Include="E:\source\sgmllib.py" />
+    <None Include="E:\source\sha.py" />
+    <None Include="E:\source\SharedData.csproj" />
+    <None Include="E:\source\SharedData.csproj - Raccourci.lnk" />
+    <None Include="E:\source\shelve.py" />
+    <None Include="E:\source\shlex.py" />
+    <None Include="E:\source\shlex.pyc" />
+    <None Include="E:\source\shutil.py" />
+    <None Include="E:\source\shutil.pyc" />
+    <None Include="E:\source\signatureFormatting.ts" />
+    <None Include="E:\source\SimpleHTTPServer.py" />
+    <None Include="E:\source\SimpleMainWindow.xaml.cs" />
+    <None Include="E:\source\SimpleMainWindow.xaml.cs - Raccourci.lnk" />
+    <None Include="E:\source\SimpleXMLRPCServer.py" />
+    <None Include="E:\source\site.py" />
+    <None Include="E:\source\site.pyc" />
+    <None Include="E:\source\slider.css" />
+    <None Include="E:\source\smtpd.py" />
+    <None Include="E:\source\smtplib.py" />
+    <None Include="E:\source\sndhdr.py" />
+    <None Include="E:\source\Snipping Tool.lnk" />
+    <None Include="E:\source\socket.py" />
+    <None Include="E:\source\socket.pyc" />
+    <None Include="E:\source\SocketServer.py" />
+    <None Include="E:\source\SocketServer.pyc" />
+    <None Include="E:\source\sortable.css" />
+    <None Include="E:\source\sourcelink-master.zip" />
+    <None Include="E:\source\SpawnActorBenchmarks.cs" />
+    <None Include="E:\source\SpawnActorBenchmarks.cs - Raccourci.lnk" />
+    <None Include="E:\source\SpawnBrowsersWindow.g.cs" />
+    <None Include="E:\source\SpawnBrowsersWindow.g.cs - Raccourci.lnk" />
+    <None Include="E:\source\SpawnBrowsersWindow.g.i.cs" />
+    <None Include="E:\source\SpawnBrowsersWindow.g.i.cs - Raccourci.lnk" />
+    <None Include="E:\source\SpawnBrowsersWindow.xaml.cs" />
+    <None Include="E:\source\SpawnBrowsersWindow.xaml.cs - Raccourci.lnk" />
+    <None Include="E:\source\spinner.css" />
+    <None Include="E:\source\SQL Server Data Tools 2015.lnk" />
+    <None Include="E:\source\SqlParameterCollectionExtensions.cs" />
+    <None Include="E:\source\SqlParameterCollectionExtensions.cs - Raccourci.lnk" />
+    <None Include="E:\source\SqlQueries.cs" />
+    <None Include="E:\source\SqlQueries.cs - Raccourci.lnk" />
+    <None Include="E:\source\SqlServerCache.cs" />
+    <None Include="E:\source\SqlServerCache.cs - Raccourci.lnk" />
+    <None Include="E:\source\SqlServerCacheConcurencySample - Raccourci.lnk" />
+    <None Include="E:\source\SqlServerCacheOptions.cs" />
+    <None Include="E:\source\SqlServerCacheOptions.cs - Raccourci.lnk" />
+    <None Include="E:\source\SqlServerCacheSample - Raccourci.lnk" />
+    <None Include="E:\source\SqlServerCacheServiceCollectionExtensions.cs" />
+    <None Include="E:\source\SqlServerCacheServiceCollectionExtensions.cs - Raccourci.lnk" />
+    <None Include="E:\source\sqltoolsservice-master.zip" />
+    <None Include="E:\source\src - Raccourci.lnk" />
+    <None Include="E:\source\src.zip" />
+    <None Include="E:\source\sre.py" />
+    <None Include="E:\source\sre_compile.py" />
+    <None Include="E:\source\sre_compile.pyc" />
+    <None Include="E:\source\sre_constants.py" />
+    <None Include="E:\source\sre_constants.pyc" />
+    <None Include="E:\source\sre_parse.py" />
+    <None Include="E:\source\sre_parse.pyc" />
+    <None Include="E:\source\ssl.py" />
+    <None Include="E:\source\ssl.pyc" />
+    <None Include="E:\source\StackExchangeRedisCacheServiceCollectionExtensions.cs" />
+    <None Include="E:\source\StandardTabControlWindow.xaml.cs" />
+    <None Include="E:\source\StandardTabControlWindow.xaml.cs - Raccourci.lnk" />
+    <None Include="E:\source\Start_Here_Win.exe" />
+    <None Include="E:\source\stat.py" />
+    <None Include="E:\source\stat.pyc" />
+    <None Include="E:\source\stateUtils.ts" />
+    <None Include="E:\source\statvfs.py" />
+    <None Include="E:\source\Steps Recorder.lnk" />
+    <None Include="E:\source\StepsRunner.cs" />
+    <None Include="E:\source\StepsRunner.cs - Raccourci.lnk" />
+    <None Include="E:\source\STL-master.zip" />
+    <None Include="E:\source\Stopwatch.ts" />
+    <None Include="E:\source\string.py" />
+    <None Include="E:\source\string.pyc" />
+    <None Include="E:\source\StringIO.py" />
+    <None Include="E:\source\StringIO.pyc" />
+    <None Include="E:\source\stringold.py" />
+    <None Include="E:\source\stringprep.py" />
+    <None Include="E:\source\stringprep.pyc" />
+    <None Include="E:\source\struct.py" />
+    <None Include="E:\source\struct.pyc" />
+    <None Include="E:\source\structuremap.2.6.3.nupkg.sha512" />
+    <None Include="E:\source\structuremap.2.6.3.s618283749_v5.224.json" />
+    <None Include="E:\source\structuremap.automocking.2.6.3.nupkg.sha512" />
+    <None Include="E:\source\structuremap.automocking.2.6.3.s618283749_v5.224.json" />
+    <None Include="E:\source\subprocess.py" />
+    <None Include="E:\source\subprocess.pyc" />
+    <None Include="E:\source\suff.py" />
+    <None Include="E:\source\sunau.py" />
+    <None Include="E:\source\sunaudio.py" />
+    <None Include="E:\source\supported.ts" />
+    <None Include="E:\source\SurveyManager.js" />
+    <None Include="E:\source\svneol.py" />
+    <None Include="E:\source\symbol.py" />
+    <None Include="E:\source\Symbols - Raccourci.lnk" />
+    <None Include="E:\source\symtable.py" />
+    <None Include="E:\source\sysconfig.py" />
+    <None Include="E:\source\sysconfig.pyc" />
+    <None Include="E:\source\System.CodeDom.svc" />
+    <None Include="E:\source\System.CodeDom.vbs" />
+    <None Include="E:\source\System.Data.Common..csproj - Raccourci.lnk" />
+    <None Include="E:\source\System.Data.SqlClient.csproj - Raccourci.lnk" />
+    <None Include="E:\source\System.IdentityModel.Tokens.Jwt.csproj" />
+    <None Include="E:\source\System.Security.Cryptography.ProtectedData.dll" />
+    <None Include="E:\source\System.Windows.Interactivity.dll" />
+    <None Include="E:\source\System.Xml.XPath.XDocument.csproj" />
+    <None Include="E:\source\System.Xml.XPath.XDocument.csproj - Raccourci.lnk" />
+    <None Include="E:\source\tab.js" />
+    <None Include="E:\source\tabnanny.py" />
+    <None Include="E:\source\tabs.css" />
+    <None Include="E:\source\tarfile.py" />
+    <None Include="E:\source\tarfile.pyc" />
+    <None Include="E:\source\TaskCommandExtension.cs" />
+    <None Include="E:\source\TaskManager.cs" />
+    <None Include="E:\source\TaskRunner.cs" />
+    <None Include="E:\source\TcpOperationsBenchmarks.cs" />
+    <None Include="E:\source\team-extension.ts" />
+    <None Include="E:\source\TeapotData.inc">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+    <None Include="E:\source\Téléchargements - Raccourci.lnk" />
+    <None Include="E:\source\telemetryReporter.d.ts" />
+    <None Include="E:\source\telemetryReporter.js" />
+    <None Include="E:\source\telnetlib.py" />
+    <None Include="E:\source\TempDirectoryManager.cs" />
+    <None Include="E:\source\TempDirectoryManager.cs - Raccourci.lnk" />
+    <None Include="E:\source\tempfile.py" />
+    <None Include="E:\source\tempfile.pyc" />
+    <None Include="E:\source\TemplateScope.ts" />
+    <None Include="E:\source\terminal-master.zip" />
+    <None Include="E:\source\TestData.InvalidProject.csproj" />
+    <None Include="E:\source\TestData.InvalidSyntax.csproj" />
+    <None Include="E:\source\TestData2.csproj" />
+    <None Include="E:\source\testUtils.ts" />
+    <None Include="E:\source\texcheck.py" />
+    <None Include="E:\source\texi2html.py" />
+    <None Include="E:\source\textwrap.py" />
+    <None Include="E:\source\textwrap.pyc" />
+    <None Include="E:\source\theme.css" />
+    <None Include="E:\source\THIRD_PARTY_README" />
+    <None Include="E:\source\this.py" />
+    <None Include="E:\source\threading.py" />
+    <None Include="E:\source\threading.pyc" />
+    <None Include="E:\source\TLE.ts" />
+    <None Include="E:\source\toast.js" />
+    <None Include="E:\source\Tokenizer.ts" />
+    <None Include="E:\source\Tools.csproj" />
+    <None Include="E:\source\tooltip.css" />
+    <None Include="E:\source\tooltip.js" />
+    <None Include="E:\source\TouchKeyboardWin10MainWindow.xaml.cs" />
+    <None Include="E:\source\Treeview.ts" />
+    <None Include="E:\source\tsconfig.json" />
+    <None Include="E:\source\tsconfig-base.json" />
+    <None Include="E:\source\tsconfig-library-base.json" />
+    <None Include="E:\source\tsconfig-noncomposite-base.json" />
+    <None Include="E:\source\TypeExtensionsBenchmarks.cs" />
+    <None Include="E:\source\TypeScript-master.zip" />
+    <None Include="E:\source\Ultra Slim (D) - Raccourci.lnk" />
+    <None Include="E:\source\UnrecognizedFunctionIssues.ts" />
+    <None Include="E:\source\user - Copie.json" />
+    <None Include="E:\source\user.json" />
+    <None Include="E:\source\UserFunctionDefinition.ts" />
+    <None Include="E:\source\UserFunctionMetadata.ts" />
+    <None Include="E:\source\UserFunctionNamespaceDefinition.ts" />
+    <None Include="E:\source\UserFunctionParameterDefinition.ts" />
+    <None Include="E:\source\Using_the_Azure_Storage_JavaScript_SDK_V10.zip" />
+    <None Include="E:\source\util.ts" />
+    <None Include="E:\source\v1.d.ts" />
+    <None Include="E:\source\v1.js" />
+    <None Include="E:\source\Variables.cs" />
+    <None Include="E:\source\vcpkg-master.zip" />
+    <None Include="E:\source\VerifyResourceUsage.pl" />
+    <None Include="E:\source\versions.js" />
+    <None Include="E:\source\Votre-stream-sur-SoundCloud.m3u" />
+    <None Include="E:\source\vscode-azurearmtools-master.zip" />
+    <None Include="E:\source\vscode-azurefunctions-master.zip" />
+    <None Include="E:\source\vscode-nuget-package-manager-master.zip" />
+    <None Include="E:\source\web.config" />
+    <None Include="E:\source\Welcome.html" />
+    <None Include="E:\source\WhoKnowsWho.sln" />
+    <None Include="E:\source\Worker.cs" />
+    <None Include="E:\source\Worker.cs - Raccourci.lnk" />
+    <None Include="E:\source\WorkerCommandManager.cs" />
+    <None Include="E:\source\WorkerCommandManager.cs - Raccourci.lnk" />
+    <None Include="E:\source\WorkerUtilties.cs" />
+    <None Include="E:\source\WorkerUtilties.cs - Raccourci.lnk" />
+    <None Include="E:\source\WorkspaceFolderBase.js" />
+    <None Include="E:\source\WorkspaceFolderManager.js" />
+    <None Include="E:\source\Wpf nicol ControlLibrary1.csproj" />
+    <None Include="E:\source\WpfBrowserProcessHandler.cs" />
+    <None Include="E:\source\WpfBrowserProcessHandler.cs - Raccourci.lnk" />
+    <None Include="E:\source\xunitSettings.props" />
+    <None Include="E:\source\xwbtool_Desktop_2015.vcxproj" />
+    <None Include="E:\source\xwbtool_Desktop_2015.vcxproj.filters" />
+    <None Include="E:\source\xwbtool_Desktop_2017.vcxproj" />
+    <None Include="E:\source\xwbtool_Desktop_2017.vcxproj.filters" />
+    <None Include="E:\source\xwbtool_Desktop_2019.vcxproj" />
+    <None Include="E:\source\xwbtool_Desktop_2019.vcxproj.filters" />
+    <None Include="E:\uwpdesktop\10.0.14393.3\build\portable-net45+uap\UwpDesktop.targets" />
+    <None Include="E:\utf8json\1.3.7\lib\net47\Utf8Json.dll" />
+    <None Include="E:\Ubuntu18.04LTS.BlazorApp1\Ubuntu18.04LTS.BlazorApp1\Shared\MainLayout.razor" />
+    <None Include="E:\Ubuntu18.04LTS.BlazorApp1\Ubuntu18.04LTS.BlazorApp1\Shared\NavMenu.razor" />
+    <None Include="E:\Ubuntu18.04LTS.BlazorApp1\Ubuntu18.04LTS.BlazorApp1\_Imports.razor" />
+    <None Include="E:\Ubuntu18.04LTS.BlazorApp1\Ubuntu18.04LTS.BlazorApp1\App.razor" />
+    <None Include="E:\Ubuntu18.04LTS.BlazorApp1\Ubuntu18.04LTS.BlazorApp1\obj\Debug\netcoreapp3.0\Ubuntu18.04LTS.BlazorApp1.AssemblyInfo.cs" />
+    <None Include="E:\Ubuntu18.04LTS.BlazorApp1\Ubuntu18.04LTS.BlazorApp1\obj\Debug\netcoreapp3.0\Ubuntu18.04LTS.BlazorApp1.AssemblyInfoInputs.cache" />
+    <None Include="E:\Ubuntu18.04LTS.BlazorApp1\Ubuntu18.04LTS.BlazorApp1\obj\Debug\netcoreapp3.0\Ubuntu18.04LTS.BlazorApp1.assets.cache" />
+    <None Include="E:\Ubuntu18.04LTS.BlazorApp1\Ubuntu18.04LTS.BlazorApp1\obj\Debug\netcoreapp3.0\Ubuntu18.04LTS.BlazorApp1.csprojAssemblyReference.cache" />
+    <None Include="E:\Ubuntu18.04LTS.BlazorApp1\Ubuntu18.04LTS.BlazorApp1\obj\Debug\netcoreapp3.0\Ubuntu18.04LTS.BlazorApp1.RazorAssemblyInfo.cache" />
+    <None Include="E:\Ubuntu18.04LTS.BlazorApp1\Ubuntu18.04LTS.BlazorApp1\obj\Debug\netcoreapp3.0\Ubuntu18.04LTS.BlazorApp1.RazorAssemblyInfo.cs" />
+    <None Include="E:\Ubuntu18.04LTS.BlazorApp1\Ubuntu18.04LTS.BlazorApp1\obj\Debug\netcoreapp3.0\Ubuntu18.04LTS.BlazorApp1.RazorComponent.input.cache" />
+    <None Include="E:\Ubuntu18.04LTS.BlazorApp1\Ubuntu18.04LTS.BlazorApp1\obj\Debug\netcoreapp3.0\Ubuntu18.04LTS.BlazorApp1.RazorCoreGenerate.cache" />
+    <None Include="E:\Ubuntu18.04LTS.BlazorApp1\Ubuntu18.04LTS.BlazorApp1\obj\Debug\netcoreapp3.0\Ubuntu18.04LTS.BlazorApp1.RazorTargetAssemblyInfo.cache" />
+    <None Include="E:\Ubuntu18.04LTS.BlazorApp1\Ubuntu18.04LTS.BlazorApp1\obj\Debug\netcoreapp3.0\Ubuntu18.04LTS.BlazorApp1.RazorTargetAssemblyInfo.cs" />
+    <None Include="E:\Ubuntu18.04LTS.BlazorApp1\Ubuntu18.04LTS.BlazorApp1\obj\Debug\netcoreapp3.0\Ubuntu18.04LTS.BlazorApp1.TagHelpers.input.cache" />
+    <None Include="E:\Ubuntu18.04LTS.BlazorApp1\Ubuntu18.04LTS.BlazorApp1\obj\Debug\netcoreapp3.0\Ubuntu18.04LTS.BlazorApp1.TagHelpers.output.cache" />
+    <None Include="E:\Ubuntu18.04LTS.BlazorApp1\Ubuntu18.04LTS.BlazorApp1\obj\Debug\netcoreapp3.0\RazorDeclaration\_Imports.razor.g.cs" />
+    <None Include="E:\Ubuntu18.04LTS.BlazorApp1\Ubuntu18.04LTS.BlazorApp1\obj\Debug\netcoreapp3.0\RazorDeclaration\App.razor.g.cs" />
+    <None Include="E:\src.Dll\NETFXSDK\4.8\Include\um\asmparse.grammar" />
+    <None Include="E:\src.Dll\NETFXSDK\4.8\Include\um\opcode.def">
+      <Filter>Fichiers sources</Filter>
+    </None>
+    <None Include="E:\src.Dll\10\bin\arm64\XamlDiagnostics\xamldiagnostics.dll" />
+    <None Include="E:\src.Dll\10\bin\x86\GenXBF.dll" />
+    <None Include="E:\Visual C++ Source\host\conhost.rcv" />
+    <None Include="E:\Visual C++ Source\host\conhostv2_traceviewpp.tvpp" />
+    <None Include="E:\Visual C++ Source\host\dirs" />
+    <None Include="E:\Visual C++ Source\host\host-common.vcxitems" />
+    <None Include="E:\Visual C++ Source\host\runft.bat">
+      <Filter>Fichiers sources</Filter>
+    </None>
+    <None Include="E:\Visual C++ Source\host\runtests.bat">
+      <Filter>Fichiers sources</Filter>
+    </None>
+    <None Include="E:\Visual C++ Source\host\runut.bat">
+      <Filter>Fichiers sources</Filter>
+    </None>
+    <None Include="E:\Visual C++ Source\host\sources.inc">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+    <None Include="E:\Visual C++ Source\host\sources.test.inc">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+    <None Include="E:\Visual C++ Source\host\dll\host.vcxproj" />
+    <None Include="E:\Visual C++ Source\host\dll\host.vcxproj.filters" />
+    <None Include="E:\Visual C++ Source\debugMarkStrings.ts" />
+    <None Include="E:\Visual C++ Source\DeploymentTemplate.ts" />
+    <None Include="E:\Visual C++ Source\DRIVER_ADD_DEVICE.c++" />
+    <None Include="E:\Visual C++ Source\DRIVER_STARTIO.c++" />
+    <None Include="E:\Visual C++ Source\IoCreateSystemThread.c++" />
+    <None Include="E:\Visual C++ Source\IoValidateDeviceIoControlAccess.c++" />
+    <None Include="E:\Visual C++ Source\xwbtool_Desktop_2017.vcxproj" />
+    <None Include="E:\Visual C++ Source\xwbtool_Desktop_2017.vcxproj.filters" />
+    <None Include="E:\Visual C++ Source\xwbtool_Desktop_2019.vcxproj" />
+    <None Include="E:\Visual C++ Source\xwbtool_Desktop_2019.vcxproj.filters" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="E:\WSL-DistroLauncher-master\DistroLauncher-Appx\MyDistro.appxmanifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\--------.log" />
+    <Text Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\NA9G1Z4W.log" />
+    <Text Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\NAADKSNX.log" />
+    <Text Include="E:\source\dd_jdbc_suite_console_install.log" />
+    <Text Include="E:\source\dd_odbc_console_install.log" />
+    <Text Include="E:\source\INSTALL.txt" />
+    <Text Include="E:\source\lgpl.txt" />
+    <Text Include="E:\source\LICENSE.TXT" />
+    <Text Include="E:\source\Microsoft.NETCore.App.versions.txt" />
+    <Text Include="E:\source\PATENTS.TXT" />
+    <Text Include="E:\source\README.txt" />
+    <Text Include="E:\source\Recovery - Copie.txt" />
+    <Text Include="E:\source\Recovery.txt" />
+    <Text Include="E:\source\THIRD-PARTY-NOTICES.TXT" />
+    <Text Include="E:\Ubuntu18.04LTS.BlazorApp1\Ubuntu18.04LTS.BlazorApp1\obj\Debug\netcoreapp3.0\Ubuntu18.04LTS.BlazorApp1.csproj.FileListAbsolute.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\..\..\Program Files (x86)\Seagate\SeaTools for Windows\Seagate_Logo.ico">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="E:\source\Cake.xml" />
+    <Xml Include="E:\source\Chocolatey.xml" />
+    <Xml Include="E:\source\CodeAnalysisDictionary.xml" />
+    <Xml Include="E:\source\CoffeeSharp.xml" />
+    <Xml Include="E:\source\CppWinrtRules.Project.xml" />
+    <Xml Include="E:\source\DDTek.OpenAccess.xml" />
+    <Xml Include="E:\source\DocumentFormat.OpenXml.xml" />
+    <Xml Include="E:\source\dotnet-xunit.xml" />
+    <Xml Include="E:\source\Embedding.xml" />
+    <Xml Include="E:\source\FluentMigrator.Runner.SqlServerCe.xml" />
+    <Xml Include="E:\source\FrameworkList.xml" />
+    <Xml Include="E:\source\FullTrust.xml" />
+    <Xml Include="E:\source\GemBox.Document.xml" />
+    <Xml Include="E:\source\GitForWindow.xml" />
+    <Xml Include="E:\source\HtmlAgilityPack.XML" />
+    <Xml Include="E:\source\Internal.AspNetCore.Sdk.xml" />
+    <Xml Include="E:\source\Internet.xml" />
+    <Xml Include="E:\source\LocalIntranet.xml" />
+    <Xml Include="E:\source\MetadataExtractor.xml" />
+    <Xml Include="E:\source\Microsoft Visual C++ Redistributable for Visual Studio 2015-2019.xml" />
+    <Xml Include="E:\source\Microsoft.Azure.Search.Data.xml" />
+    <Xml Include="E:\source\Microsoft.Bcl.AsyncInterfaces.xml" />
+    <Xml Include="E:\source\Microsoft.Build.NuGetSdkResolver.xml" />
+    <Xml Include="E:\source\Microsoft.CrmSdk.CoreAssemblies.xml" />
+    <Xml Include="E:\source\Microsoft.Data.Services.Client.xml" />
+    <Xml Include="E:\source\Microsoft.DocAsCode.Build.ManagedReference.xml" />
+    <Xml Include="E:\source\Microsoft.DocAsCode.Build.RestApi.xml" />
+    <Xml Include="E:\source\Microsoft.DocAsCode.MarkdownLite.xml" />
+    <Xml Include="E:\source\Microsoft.EntityFrameworkCore.SqlServer.xml" />
+    <Xml Include="E:\source\Microsoft.Exchange.WebServices.Auth.xml" />
+    <Xml Include="E:\source\Microsoft.Expression.Interactions.xml" />
+    <Xml Include="E:\source\Microsoft.Extensions.DependencyInjection.xml" />
+    <Xml Include="E:\source\Microsoft.NETCore.App.xml" />
+    <Xml Include="E:\source\Microsoft.ServiceFabric.Services.xml" />
+    <Xml Include="E:\source\Microsoft.SqlServer.Types.xml" />
+    <Xml Include="E:\source\Microsoft.VisualStudio.SDK.xml" />
+    <Xml Include="E:\source\Microsoft.VisualStudio.Threading.xml" />
+    <Xml Include="E:\source\NuGet.Protocol.xml" />
+    <Xml Include="E:\source\NuGet.runner.xml" />
+    <Xml Include="E:\source\pom.xml" />
+    <Xml Include="E:\source\runtime.win-x64.Microsoft.NETCore.DotNetAppHost.xml" />
+    <Xml Include="E:\source\SerialNumber.xml" />
+    <Xml Include="E:\source\ServiceConfig.xml" />
+    <Xml Include="E:\source\SignConfig.xml" />
+    <Xml Include="E:\source\System.Data.Odbc.xml" />
+    <Xml Include="E:\source\System.Windows.Interactivity.xml" />
+    <Xml Include="E:\source\System.Xml.ReaderWriter.xml" />
+    <Xml Include="E:\source\Web Platform Installer 4.0 Feed.xml" />
+    <Xml Include="E:\source\WebSystemAdminUiManifest.xml" />
+    <Xml Include="E:\utf8json\1.3.7\lib\net47\Utf8Json.xml" />
+    <Xml Include="E:\Visual C++ Source\FullTrust.xml" />
+    <Xml Include="E:\Visual C++ Source\LocalIntranet.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="E:\source\JKLL - Jumperz.mp3" />
+    <Media Include="E:\source\JKLL - Ultimate Sacrifice.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="E:\sqlitepclraw.lib.e_sqlite3.linux\1.1.14\runtimes\linux-x64\native\libe_sqlite3.so" />
+  </ItemGroup>
+  <ItemGroup>
+    <Midl Include="E:\src.Dll\NETFXSDK\4.8\Include\um\clrdata.idl">
+      <Filter>Fichiers sources</Filter>
+    </Midl>
+    <Midl Include="E:\src.Dll\NETFXSDK\4.8\Include\um\cordebug.idl">
+      <Filter>Fichiers sources</Filter>
+    </Midl>
+    <Midl Include="E:\src.Dll\NETFXSDK\4.8\Include\um\corprof.idl">
+      <Filter>Fichiers sources</Filter>
+    </Midl>
+    <Midl Include="E:\src.Dll\NETFXSDK\4.8\Include\um\corpub.idl">
+      <Filter>Fichiers sources</Filter>
+    </Midl>
+    <Midl Include="E:\src.Dll\NETFXSDK\4.8\Include\um\CorSym.idl">
+      <Filter>Fichiers sources</Filter>
+    </Midl>
+    <Midl Include="E:\src.Dll\NETFXSDK\4.8\Include\um\gchost.idl">
+      <Filter>Fichiers sources</Filter>
+    </Midl>
+    <Midl Include="E:\src.Dll\NETFXSDK\4.8\Include\um\ivalidator.idl">
+      <Filter>Fichiers sources</Filter>
+    </Midl>
+    <Midl Include="E:\src.Dll\NETFXSDK\4.8\Include\um\IVEHandler.idl">
+      <Filter>Fichiers sources</Filter>
+    </Midl>
+    <Midl Include="E:\src.Dll\NETFXSDK\4.8\Include\um\tlbref.idl">
+      <Filter>Fichiers sources</Filter>
+    </Midl>
   </ItemGroup>
 </Project>
